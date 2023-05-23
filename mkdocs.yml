@@ -1,5 +1,6 @@
 site_name: Practical openEHR modelling session
 theme:
     name: material
+    logo: images/favicon-32x32.png
     palette:
-        primary: teal
+        primary: blue
