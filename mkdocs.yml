@@ -1,0 +1,5 @@
+site_name: Practical openEHR modelling session
+theme:
+    name: material
+    palette:
+        primary: teal
